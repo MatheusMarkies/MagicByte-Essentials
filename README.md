@@ -4,7 +4,7 @@
 ![Magic Byte Logo](https://i.ibb.co/vHVcHGP/Magic-Byte-Logo.png)
   </a>
 
-  <h1 align="center">Magic Byte Essentials</h1>
+  <h1 align="center">MagicByte Essentials</h1>
 
   <p align="center">
     Essential utilities to facilitate creation of projects in Unity
