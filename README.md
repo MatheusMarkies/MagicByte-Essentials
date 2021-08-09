@@ -99,18 +99,28 @@ Unity 2019.4.20f1 or newer.
 
 ## 2D
 ### 2D Essentials
+<a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/2D/Essentials2D.cs">2D Essentials</a>
 ### Operations with Vectors 2D
+<a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/2D/Vector2DUtils.cs">Vectors 2D Utils</a>
 ## 3D
 ### Ragdoll
+<a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/3D/Immersive3DControll.cs">Immersive 3D Controll</a>
 ### Operations with Vectors 3D
+<a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/3D/Vector3DUtils.cs">Vectors 3D Utils</a>
 ### Spring Bone
+<a href="https://github.com/MatheusMarkies/MagicByte-Essentials/tree/main/Magic%20Byte%20Essentials/3D/SpringBone">Spring Bone</a>
 ## Sound
 ### Beat Mapping
+<a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/Sound/BeatMapping.cs">Beat Mapping</a>
 ### Sound Spectrum
+<a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/Sound/Spectrum.cs">Spectrum</a>
 ### Sound Manager
+<a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/Sound/SoundManager.cs">Sound Manager</a>
 ## Menu Basics
 ### Screen Manager
+<a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/MenuBasics.cs">Screen Manager</a>
 ## Operations with Arrays or Lists
+<a href="https://github.com/MatheusMarkies/MagicByte-Essentials/blob/main/Magic%20Byte%20Essentials/Arrays.cs">Arrays</a>
 
 <!-- CONTACT -->
 # Contact
