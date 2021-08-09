@@ -10,7 +10,7 @@
     Essential utilities to facilitate creation of projects in Unity
     <br />
     <a href="https://github.com/MatheusMarkies/Magic-Byte-Essentials"><strong>Explore the docs »</strong></a>
-        <a href="https://github.com/MatheusMarkies"><strong>Other projects »</strong></a>
+        <a href="https://github.com/MatheusMarkies/MagicByte"><strong>Magic Byte Render Pipeline »</strong></a>
     <br />
     <br />
     <a href="https://github.com/MatheusMarkies/Magic-Byte-Essentials/issues">Report Bug</a>
