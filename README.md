@@ -4,7 +4,7 @@
 ![Magic Byte Logo](https://i.ibb.co/vHVcHGP/Magic-Byte-Logo.png)
   </a>
 
-  <h1 align="center">MagicByte Essentials</h1>
+  <h1 align="center">Magic Byte Essentials</h1>
 
   <p align="center">
     Essential utilities to facilitate creation of projects in Unity
@@ -46,6 +46,39 @@
 ## About The Project
 
 This project was made with the intention of accelerating the production of projects using unity. With features already pre-programmed, requiring only one implementation in the project.
+
+  <summary>Features</summary>
+  <ol>
+    <li>
+      <a href="#2D">2D</a>
+        <ul>
+        <li><a href="#2DEssentials">2D Essentials</a></li>
+        <li><a href="#OperationsVectors2D">Operations with Vectors 2D</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#3D">3D</a>
+      <ul>
+        <li><a href="#Ragdoll">Ragdoll</a></li>
+        <li><a href="#OperationsVectors3D">Operations with Vectors 3D</a></li>
+        <li><a href="#SpringBone">Spring Bone</a></li>
+      </ul>
+    </li>
+    <li>
+    <a href="#Sound">Sound</a>
+    <ul>
+        <li><a href="#BeatMapping">Beat Mapping</a></li>
+        <li><a href="#SoundSpectrum">Sound Spectrum</a></li>
+        <li><a href="#SoundManager">Sound Manager</a></li>
+        </ul>
+    </li>
+    <li><a href="#MenuBasics">Menu Basics</a>
+        <ul>
+        <li><a href="#ScreenManager">Screen Manager</a></li>
+        </ul>
+    </li>
+    <li><a href="#OperationsArray">Operations with Arrays or Lists</a></li>
+  </ol>
 
 <!-- GETTING STARTED -->
 ## Getting Started
