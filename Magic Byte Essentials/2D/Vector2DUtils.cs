@@ -71,5 +71,13 @@ namespace EssentialMechanics.Logic
 
             return new Vector2(x, y);
         }
+        public static Vector2 Vec3toVec2(Vector3 vector)
+        {
+            return new Vector2(vector.x, vector.y);
+        }
+        public static Vector2 Vec2Int(Vector2 vector)
+        {
+            return new Vector2((int)vector.x, (int)vector.y);
+        }
     }
 }
